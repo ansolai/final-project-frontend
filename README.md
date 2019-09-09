@@ -13,3 +13,6 @@ npm start
 Deployed: http://skp-suomenkuvapalvelu.s3-website-eu-west-1.amazonaws.com/
 
 Backend link: https://github.com/ansolai/final-project-backend
+#
+contributors: teepli, david-academy, iirissetala, SamuliSorjonen and ansolai
+#
